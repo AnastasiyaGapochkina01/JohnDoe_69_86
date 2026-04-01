@@ -1,4 +1,7 @@
-дополнительный материал про LVM: https://youtu.be/DnUqaXJVdew
+дополнительный материал про LVM и ФС: 
+1) https://youtu.be/DnUqaXJVdew
+2) https://youtu.be/qMFb7Nj_WA4
+3) https://youtu.be/yDqkN2ecNEU (RAID)
 
 ### Задачи
 1) Добавить к VM 2 дополнительных диска (размер произвольно, от 2 до 5 Gb хватит, но можно больше, если есть)
